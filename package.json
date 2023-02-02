@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "axios": "^1.2.6",
+    "basic-ftp": "^5.0.2",
+    "date-fns": "^2.29.3",
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3",
+    "fs": "^0.0.1-security",
+    "keypress": "^0.2.1",
+    "node-telegram-bot-api": "^0.61.0",
+    "rcon": "^1.1.0"
+  }
+}
